@@ -6,7 +6,7 @@ Este projeto foi criado para ajudar iniciantes a aprenderem como criar READMEs p
 
 ---
 
- 🚀 O que você vai aprender
+ #🚀 O que você vai aprender
 
 - O que é um README
 - Por que um README é importante
@@ -21,7 +21,7 @@ Este projeto foi criado para ajudar iniciantes a aprenderem como criar READMEs p
 
 ---
 
- 📋 Estrutura de um README
+ ##📋 Estrutura de um README
 
 Um README geralmente contém:
 
@@ -90,7 +90,7 @@ Resultado:
 
 ---
 
- Listas
+ ##Listas
 
 ```markdown
 - Item 1
@@ -108,7 +108,7 @@ ou
 
 ---
 
-Links
+##Links
 
 ```markdown
 [GitHub](https://github.com)
@@ -120,7 +120,7 @@ Resultado:
 
 ---
 
- Imagens
+##Imagens
 
 ```markdown
 ![Descrição da imagem](URL_DA_IMAGEM)
@@ -128,7 +128,7 @@ Resultado:
 
 ---
 
- Código
+##Código
 
 Código em linha:
 
